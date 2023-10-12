@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Pedro Costa.
 
 <!--
 **PJGPFCosta/PJGPFCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Dannyps' github stats](https://github-readme-stats.vercel.app/api?username=PJGPFCosta&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PJGPFCosta&langs_count=4&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
